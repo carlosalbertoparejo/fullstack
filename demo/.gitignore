@@ -1,0 +1,14 @@
+# Archivos sensibles
+.env
+
+# Maven
+target/
+
+# IntelliJ / VS Code
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+application-secret.properties
